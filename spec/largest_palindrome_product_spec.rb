@@ -1,6 +1,7 @@
 require 'largest_palindrome_product'
 
 describe LargestPalindromeProduct do
+
   let(:lpp) { LargestPalindromeProduct.new }
 
   it 'should know if a number is a palindrome' do
